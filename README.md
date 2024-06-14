@@ -40,3 +40,15 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
+# Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
