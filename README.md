@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
 # Linked List
 |  |
 | ------- |
@@ -74,3 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0020-valid-parentheses) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
