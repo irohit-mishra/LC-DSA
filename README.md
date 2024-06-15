@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/irohit-mishra/LC-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 # String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/irohit-mishra/LC-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/irohit-mishra/LC-DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 # Sliding Window
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/irohit-mishra/LC-DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 # Recursion
 |  |
 | ------- |
