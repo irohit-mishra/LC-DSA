@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0011-container-with-most-water) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Sorting
 |  |
