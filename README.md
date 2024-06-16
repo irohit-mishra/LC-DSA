@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
+| [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
 |  |
 | ------- |
@@ -79,3 +80,19 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+# Greedy
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+# Sorting
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+# Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
