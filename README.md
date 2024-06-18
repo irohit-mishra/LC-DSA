@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
@@ -90,6 +91,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
 # Divide and Conquer
 |  |
