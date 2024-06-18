@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/irohit-mishra/LC-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 # String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0015-3sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
 |  |
@@ -115,7 +117,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0029-divide-two-integers) |
+# Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
