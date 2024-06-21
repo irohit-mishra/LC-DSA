@@ -33,6 +33,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/irohit-mishra/LC-DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
 |  |
@@ -59,10 +60,12 @@
 | [0011-container-with-most-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/irohit-mishra/LC-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 # Tree
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 # Binary Search
 |  |
 | ------- |
@@ -126,3 +130,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
