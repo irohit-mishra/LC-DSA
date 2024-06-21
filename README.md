@@ -51,6 +51,7 @@
 | [0007-reverse-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 # Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 # Tree
 |  |
 | ------- |
@@ -140,3 +142,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
