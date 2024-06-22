@@ -39,6 +39,7 @@
 | [0039-combination-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
 |  |
@@ -53,6 +54,7 @@
 | [0007-reverse-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/irohit-mishra/LC-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 # Recursion
 |  |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 # Monotonic Stack
 |  |
 | ------- |
