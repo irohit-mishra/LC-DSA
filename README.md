@@ -154,3 +154,4 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
