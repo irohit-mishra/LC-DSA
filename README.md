@@ -10,6 +10,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 # String
 |  |
 | ------- |
@@ -161,3 +162,12 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
+| [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+# Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+# Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
