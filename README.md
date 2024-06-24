@@ -45,6 +45,7 @@
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 # Linked List
 |  |
@@ -84,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 # Tree
 |  |
 | ------- |
