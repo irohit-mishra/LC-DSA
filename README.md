@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 # String
 |  |
@@ -48,6 +49,7 @@
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 # Linked List
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 # Greedy
 |  |
 | ------- |
@@ -138,10 +141,12 @@
 | [0015-3sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 # Quickselect
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 # Backtracking
 |  |
 | ------- |
@@ -181,4 +186,13 @@
 # Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
