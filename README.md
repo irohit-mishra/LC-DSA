@@ -91,6 +91,7 @@
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 # Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 # Queue
