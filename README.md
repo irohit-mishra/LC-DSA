@@ -133,6 +133,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/irohit-mishra/LC-DSA/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 # Greedy
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/irohit-mishra/LC-DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 # Matrix
 |  |
