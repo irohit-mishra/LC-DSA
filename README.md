@@ -70,6 +70,7 @@
 | [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
 # Recursion
 |  |
@@ -94,6 +95,7 @@
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
@@ -215,3 +217,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0054-spiral-matrix) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
