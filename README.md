@@ -45,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/irohit-mishra/LC-DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
@@ -170,6 +171,7 @@
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/irohit-mishra/LC-DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
