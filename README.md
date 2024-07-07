@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -58,6 +59,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/irohit-mishra/LC-DSA/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +111,7 @@
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 # Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/irohit-mishra/LC-DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 # Stack
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
 # Queue
@@ -243,6 +248,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 # Union Find
 |  |
 | ------- |
