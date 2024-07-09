@@ -116,18 +116,21 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0543-diameter-of-binary-tree) |
 # Breadth-First Search
@@ -145,6 +148,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 # Binary Search
 |  |
 | ------- |
