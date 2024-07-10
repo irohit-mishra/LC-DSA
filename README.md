@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/irohit-mishra/LC-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/irohit-mishra/LC-DSA/tree/master/0055-jump-game) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/irohit-mishra/LC-DSA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/irohit-mishra/LC-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
