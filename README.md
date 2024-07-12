@@ -58,6 +58,7 @@
 | [0055-jump-game](https://github.com/irohit-mishra/LC-DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/irohit-mishra/LC-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 # Dynamic Programming
@@ -189,6 +191,7 @@
 | ------- |
 | [0015-3sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
