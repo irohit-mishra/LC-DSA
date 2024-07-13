@@ -59,6 +59,7 @@
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -118,6 +119,7 @@
 | [0055-jump-game](https://github.com/irohit-mishra/LC-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
