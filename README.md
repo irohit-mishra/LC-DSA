@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -214,11 +215,13 @@
 | [0039-combination-sum](https://github.com/irohit-mishra/LC-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/irohit-mishra/LC-DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/irohit-mishra/LC-DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 # Matrix
