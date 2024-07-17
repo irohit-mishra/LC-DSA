@@ -131,6 +131,7 @@
 # Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -139,6 +140,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -147,6 +149,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -288,3 +291,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
