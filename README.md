@@ -61,6 +61,7 @@
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -216,6 +217,7 @@
 | [0046-permutations](https://github.com/irohit-mishra/LC-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/irohit-mishra/LC-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
@@ -232,6 +234,7 @@
 | [0048-rotate-image](https://github.com/irohit-mishra/LC-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
