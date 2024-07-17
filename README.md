@@ -122,6 +122,7 @@
 | [0055-jump-game](https://github.com/irohit-mishra/LC-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/irohit-mishra/LC-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/irohit-mishra/LC-DSA/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -252,6 +253,7 @@
 | [0038-count-and-say](https://github.com/irohit-mishra/LC-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/irohit-mishra/LC-DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
