@@ -68,6 +68,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/irohit-mishra/LC-DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +129,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
 # Tree
 |  |
 | ------- |
