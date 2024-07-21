@@ -73,6 +73,7 @@
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Linked List
 |  |
@@ -96,6 +97,7 @@
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
+| [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 # Recursion
 |  |
 | ------- |
@@ -303,3 +305,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
+# Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
