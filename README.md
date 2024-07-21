@@ -73,6 +73,7 @@
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Linked List
@@ -215,6 +216,7 @@
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Quickselect
 |  |
@@ -249,6 +251,7 @@
 | [0054-spiral-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Bucket Sort
 |  |
 | ------- |
@@ -305,6 +309,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Randomized
 |  |
 | ------- |
