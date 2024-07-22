@@ -98,6 +98,7 @@
 | [0066-plus-one](https://github.com/irohit-mishra/LC-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/irohit-mishra/LC-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 # Recursion
 |  |
@@ -242,6 +243,7 @@
 | [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/irohit-mishra/LC-DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/irohit-mishra/LC-DSA/tree/master/0371-sum-of-two-integers) |
 # Matrix
 |  |
 | ------- |
