@@ -75,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
+| [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Linked List
 |  |
@@ -318,6 +319,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
 # Randomized
 |  |
 | ------- |
