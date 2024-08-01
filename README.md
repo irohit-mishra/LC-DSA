@@ -70,6 +70,7 @@
 | [0134-gas-station](https://github.com/irohit-mishra/LC-DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
+| [0283-move-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@
 | [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/irohit-mishra/LC-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 # Dynamic Programming
 |  |
