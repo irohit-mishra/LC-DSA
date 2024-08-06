@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/irohit-mishra/LC-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/irohit-mishra/LC-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/irohit-mishra/LC-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -63,6 +64,7 @@
 | [0075-sort-colors](https://github.com/irohit-mishra/LC-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/irohit-mishra/LC-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/irohit-mishra/LC-DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -152,6 +154,7 @@
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0226-invert-binary-tree) |
@@ -172,6 +175,7 @@
 | [0100-same-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0226-invert-binary-tree) |
@@ -207,6 +211,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/irohit-mishra/LC-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/irohit-mishra/LC-DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/irohit-mishra/LC-DSA/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
