@@ -72,6 +72,7 @@
 | [0134-gas-station](https://github.com/irohit-mishra/LC-DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/irohit-mishra/LC-DSA/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/irohit-mishra/LC-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/irohit-mishra/LC-DSA/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
 # Randomized
