@@ -23,7 +23,7 @@ class Solution {
         if(root.left == null && root.right == null){
             return root.val == targetSum;
         }
-
+        //// Recur for left and right subtrees with the updated target sum
         int newTargetSum = targetSum - root.val;
         return hasPathSum (root.left, newTargetSum) || hasPathSum(root.right, newTargetSum);
     }
