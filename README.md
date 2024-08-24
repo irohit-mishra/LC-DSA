@@ -80,6 +80,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 | [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/irohit-mishra/LC-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Linked List
 |  |
