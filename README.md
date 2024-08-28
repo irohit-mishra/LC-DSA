@@ -73,6 +73,7 @@
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/irohit-mishra/LC-DSA/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/irohit-mishra/LC-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
@@ -366,3 +367,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/irohit-mishra/LC-DSA/tree/master/0148-sort-list) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/irohit-mishra/LC-DSA/tree/master/0238-product-of-array-except-self) |
