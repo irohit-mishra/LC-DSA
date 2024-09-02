@@ -138,6 +138,7 @@
 | [0283-move-zeroes](https://github.com/irohit-mishra/LC-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/irohit-mishra/LC-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/irohit-mishra/LC-DSA/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/irohit-mishra/LC-DSA/tree/master/1894-merge-strings-alternately) |
 # Dynamic Programming
@@ -157,6 +158,7 @@
 | [0131-palindrome-partitioning](https://github.com/irohit-mishra/LC-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/irohit-mishra/LC-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/irohit-mishra/LC-DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0392-is-subsequence) |
 # Tree
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/irohit-mishra/LC-DSA/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/irohit-mishra/LC-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/irohit-mishra/LC-DSA/tree/master/1894-merge-strings-alternately) |
