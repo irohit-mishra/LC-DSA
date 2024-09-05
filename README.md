@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/irohit-mishra/LC-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/irohit-mishra/LC-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 # String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0605-can-place-flowers](https://github.com/irohit-mishra/LC-DSA/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/irohit-mishra/LC-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/irohit-mishra/LC-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Linked List
 |  |
@@ -140,6 +142,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/irohit-mishra/LC-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/irohit-mishra/LC-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/irohit-mishra/LC-DSA/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/irohit-mishra/LC-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/irohit-mishra/LC-DSA/tree/master/1894-merge-strings-alternately) |
 # Dynamic Programming
 |  |
@@ -263,6 +266,7 @@
 | [0324-wiggle-sort-ii](https://github.com/irohit-mishra/LC-DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/irohit-mishra/LC-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/irohit-mishra/LC-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/irohit-mishra/LC-DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 # Quickselect
 |  |
