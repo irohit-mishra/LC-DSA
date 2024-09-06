@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/irohit-mishra/LC-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/irohit-mishra/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 # Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/irohit-mishra/LC-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/irohit-mishra/LC-DSA/tree/master/0384-shuffle-an-array) |
 | [0605-can-place-flowers](https://github.com/irohit-mishra/LC-DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/irohit-mishra/LC-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/irohit-mishra/LC-DSA/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/irohit-mishra/LC-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/irohit-mishra/LC-DSA/tree/master/1798-max-number-of-k-sum-pairs) |
